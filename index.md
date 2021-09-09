@@ -3,7 +3,7 @@
 # Washington Larch Hikes
 This is a map of hikes in Washington that go through the ranges of subalpine larch (_Larix lyallii_) and western larch (_Larix occidentalis_). [Larches](https://en.wikipedia.org/wiki/Larch) are deciduous conifers that turn yellow in the autumn and drop their needles, and hiking to see them during that period is a popular pasttime, oftened called a "larch march". Depending on the completeness and accuracy of the data sources, there may be larch hikes that are missing, or included hikes that don't actually have larches. A great source to double-check for the presence of larches (and whether or not they're currently changing colors) is the [Washington Trails Association](www.wta.org), which provides descriptions and trip reports for most hikes in the state. Always check conditions before you go, and practice [Leave No Trace](https://lnt.org/why/7-principles/) on the trail.
 
-You can open the map in a new tab [here](WashingtonLarchHikes.html).
+You can open the map in a new tab <a href='WashingtonLarchHikes.html' target='_blank'>here</a>.
 
 <iframe src="./WashingtonLarchHikes.html" height="600" width="1000"></iframe>
 
